@@ -1,0 +1,40 @@
+/* font-family: 'Playfair Display', serif;
+font-family: 'Saira Condensed', sans-serif; */
+
+body {
+    font-family: 'Saira Condensed', sans-serif;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+    background-color: lightskyblue;
+}
+
+div {
+    padding: 10px;
+    margin-left: 60px;
+}
+
+h1,
+h2 {
+    font-family: 'Playfair Display', serif;
+}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+    color: darkred;
+}
+
+img {
+    border: 1px solid black;
+}
+
+.left {
+    float: left;
+    width: 60%;
+}
+
+.right {
+    float: right;
+    width: 30%;
+}
