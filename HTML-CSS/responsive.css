@@ -1,0 +1,70 @@
+div {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+header {
+    width: 820px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 12px;
+}
+
+img {
+    width: 100px;
+}
+
+.wrap {
+    width: 860px;
+    display: block;
+}
+
+.menu,
+.content,
+.sidebar,
+.footer {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.menu {
+    width: 170px;
+}
+
+.content {
+    width: 480px;
+}
+
+.content h2 {
+    font-size: 24px;
+}
+
+.content p {
+    font-size: 16px;
+}
+
+.sidebar {
+    width: 124px;
+}
+
+.left,
+.right {
+    width: 412px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
