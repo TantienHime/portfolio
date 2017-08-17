@@ -9,6 +9,6 @@ August 16, 2017
 ---------------
 Realized that I hadn't pulled before I merged, so I forced the push on GIT. Still making sure that I know what I'm doing, and still learning. Here's a summary of what I have as of today:
 
-     Fibonacci Project: I was told that someone at one of the companies that I was looking at always asked about this sequence and no one knew what it was. I knew right away. I have built the basic sequence, but will eventually put a front end on it at some point.
+Fibonacci Project: I was told that someone at one of the companies that I was looking at always asked about this sequence and no one knew what it was. I knew right away. I have built the basic sequence, but will eventually put a front end on it at some point.
 
-     HTML/CSS: I'm going back through some of my previous projects and decided to rebuild them from scratch based on the principles in each of the projects or what I was learning. I've now got two projects in here: band and responsive. These aren't meant to be pretty. They are meant to follow instructions and show a process. Did I do what was being asked of me? Yes. Did I achieve those? Yes. Great.
+HTML/CSS: I'm going back through some of my previous projects and decided to rebuild them from scratch based on the principles in each of the projects or what I was learning. I've now got two projects in here: band and responsive. These aren't meant to be pretty. They are meant to follow instructions and show a process. Did I do what was being asked of me? Yes. Did I achieve those? Yes. Great.
